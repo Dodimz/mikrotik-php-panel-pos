@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "id": "F001",
+      "name": "Nasi Goreng",
+      "price": 15000
+    },
+    {
+      "id": "F002",
+      "name": "Mie Goreng",
+      "price": 13000
+    },
+    {
+      "id": "F003",
+      "name": "Kentang Goreng",
+      "price": 10000
+    },
+    {
+      "id": "D001",
+      "name": "Es Teh",
+      "price": 5000
+    },
+    {
+      "id": "D002",
+      "name": "Kopi",
+      "price": 7000
+    },
+    {
+      "id": "D003",
+      "name": "Air Mineral",
+      "price": 4000
+    }
+  ]
+}
